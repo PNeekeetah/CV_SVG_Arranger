@@ -71,4 +71,4 @@ Voila. You just saved yourself a buck, go buy yourself some orange juice :)
 
 There are some examples thrown in here, have a look at my friend's CV for inspiration :) (names and various details changed for anonimity's sake).
 
-
+Btw, SVG_Converter is what you want to use. I might end up rewriting some of that stuff to make it look more pleasing, but I likely won't.
